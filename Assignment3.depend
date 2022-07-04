@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623239421 source:d:\bioinformatics 3(2)\bioligical\lab 7\assignment3\main.cpp
+	<string>
+	<cstring>
+	<iostream>
+
